@@ -4,10 +4,10 @@
 format: jb-book
 root: intro
 parts:
-  - caption: はじめに
-    chapters:
-    - file: chapter1/markdown
-    - file: chapter1/notebooks
+#  - caption: はじめに
+#    chapters:
+#    - file: chapter1/markdown
+#    - file: chapter1/notebooks
   - caption: 線形回帰
     chapters:
     - file: data-analysis/materials/regression/線形回帰.ipynb

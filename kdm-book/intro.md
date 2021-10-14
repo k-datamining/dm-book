@@ -6,6 +6,6 @@
 - [github](https://github.com/k-datamining)
 - [動画で使用したスライドの一部](https://speakerdeck.com/k_study)
 
-# セットアップ
+# 実行環境
 
-python3.8.5 が実行可能である環境が必要です。
+- python3.8.5
