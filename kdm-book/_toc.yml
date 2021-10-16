@@ -29,3 +29,7 @@ parts:
     - file: data-analysis/materials/ensemble/Adaboostの各パラメータの影響度とAdaboost(分類)の重みの可視化例.ipynb
     - file: data-analysis/materials/ensemble/Adaboost(回帰)の重みの可視化例.ipynb
     - file: data-analysis/materials/ensemble/勾配ブースティング.ipynb
+  - caption: クラスタリング
+    chapters:
+    - file: data-analysis/materials/clustering/k-meansクラスタリング.ipynb
+    - file: data-analysis/materials/clustering/X-meansクラスタリング.ipynb

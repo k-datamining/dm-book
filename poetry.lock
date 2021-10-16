@@ -1219,6 +1219,20 @@ docutils = ">=0.8"
 pybtex = ">=0.16"
 
 [[package]]
+name = "pyclustering"
+version = "0.10.1.2"
+description = "pyclustring is a python data mining library"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+matplotlib = ">=3.0.0"
+numpy = ">=1.15.2"
+Pillow = ">=5.2.0"
+scipy = ">=1.1.0"
+
+[[package]]
 name = "pycodestyle"
 version = "2.8.0"
 description = "Python style guide checker"
@@ -1962,7 +1976,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "450a5e8da2c316b9c9b5e20f61d2c19650f90d7e0b5a84fc6012772bb80238db"
+content-hash = "2d1e4db37841bd22f097d9ce717fdc8c5701813a5ba2c13a6be904b921935f37"
 
 [metadata.files]
 alabaster = [
@@ -2650,6 +2664,9 @@ pybtex = [
 pybtex-docutils = [
     {file = "pybtex-docutils-1.0.1.tar.gz", hash = "sha256:d53aa0c31dc94d61fd30ea3f06c749e6f510f9ff0e78cb2765a9300f173d8626"},
     {file = "pybtex_docutils-1.0.1-py3-none-any.whl", hash = "sha256:42e379bd1d5473b9fd7be4b3a64ca291d4fdc9ae6c6854e52d1d0157c955bbfa"},
+]
+pyclustering = [
+    {file = "pyclustering-0.10.1.2.tar.gz", hash = "sha256:8a98fd299fcc1e21b7b7c963275162dd7194aa3d921aa66d313775597cf833d1"},
 ]
 pycodestyle = [
     {file = "pycodestyle-2.8.0-py2.py3-none-any.whl", hash = "sha256:720f8b39dde8b293825e7ff02c475f3077124006db4f440dcbc9a20b76548a20"},
