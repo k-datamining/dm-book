@@ -31,5 +31,11 @@ parts:
     - file: data-analysis/materials/ensemble/勾配ブースティング.ipynb
   - caption: クラスタリング
     chapters:
-    - file: data-analysis/materials/clustering/k-meansクラスタリング.ipynb
+    - file: data-analysis/materials/clustering/k-meansクラスタリング1.ipynb
+    - file: data-analysis/materials/clustering/k-meansクラスタリング2.ipynb
     - file: data-analysis/materials/clustering/X-meansクラスタリング.ipynb
+  - caption: 次元削減
+    chapters:
+    - file: data-analysis/materials/dimensionality_reduction/PCA.ipynb
+    - file: data-analysis/materials/dimensionality_reduction/LDA.ipynb
+    - file: data-analysis/materials/dimensionality_reduction/Kernel-PCA.ipynb
