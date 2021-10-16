@@ -1,7 +1,12 @@
 ﻿# _build
 kdm-book/_build
 .vscode/
+
+# log
 note.md
+nohup.out
+log/
+temp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
