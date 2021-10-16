@@ -1,10 +1,10 @@
-# 補足資料集
+# はじめに
 
-動画で解説した各アルゴリズムのコードの補足をするための資料です。
+このページは以下の youtube で使用したコードを公開するページです。
 
 - [youtube](https://www.youtube.com/channel/UCFy3VBvZBeE9bN0F2sxF8rg)
-- [github](https://github.com/k-datamining)
 - [動画で使用したスライドの一部](https://speakerdeck.com/k_study)
+- [github](https://github.com/k-datamining)
 
 # 実行環境
 

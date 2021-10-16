@@ -15,16 +15,17 @@ parts:
     - file: data-analysis/materials/regression/ロバストな回帰.ipynb
   - caption: 線形分類
     chapters:
-    - file: data-analysis/materials/classification/ロジスティック回帰.ipynb
     - file: data-analysis/materials/classification/判別分析法.ipynb
-#  - caption: 木構造
-#    chapters:
-#    - file: data-analysis/materials/tree/決定木(分類).ipynb
-#    - file: data-analysis/materials/tree/決定木(回帰).ipynb
-#    - file: data-analysis/materials/tree/過学習を防ぐためのパラメータ.ipynb
-#  - caption: 木構造
-#    chapters:
-#    - file: data-analysis/materials/ensemble/スタッキング.ipynb
-#    - file: data-analysis/materials/ensemble/Adaboostの各パラメータの影響度とAdaboost(分類)の重みの可視化例.ipynb
-#    - file: data-analysis/materials/ensemble/Adaboost(回帰)の重みの可視化例.ipynb
-#    - file: data-analysis/materials/ensemble/勾配ブースティング.ipynb
+    - file: data-analysis/materials/classification/ロジスティック回帰.ipynb
+  - caption: 木構造
+    chapters:
+    - file: data-analysis/materials/tree/決定木(分類).ipynb
+    - file: data-analysis/materials/tree/決定木(回帰).ipynb
+    - file: data-analysis/materials/tree/過学習を防ぐためのパラメータ.ipynb
+  - caption: アンサンブル
+    chapters:
+    - file: data-analysis/materials/ensemble/RandomForest.ipynb
+    - file: data-analysis/materials/ensemble/スタッキング.ipynb
+    - file: data-analysis/materials/ensemble/Adaboostの各パラメータの影響度とAdaboost(分類)の重みの可視化例.ipynb
+    - file: data-analysis/materials/ensemble/Adaboost(回帰)の重みの可視化例.ipynb
+    - file: data-analysis/materials/ensemble/勾配ブースティング.ipynb
