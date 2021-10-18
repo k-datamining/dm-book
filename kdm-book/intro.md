@@ -2,10 +2,35 @@
 
 このページは以下の youtube で使用したコードを公開するページです。
 
-- [youtube](https://www.youtube.com/channel/UCFy3VBvZBeE9bN0F2sxF8rg)
-- [動画で使用したスライドの一部](https://speakerdeck.com/k_study)
-- [github](https://github.com/k-datamining)
+- [youtube(動画)](http://www.youtube.com/channel/UCFy3VBvZBeE9bN0F2sxF8rg?sub_confirmation=1)
+- [speakerdeck(動画で使用した動画)](https://speakerdeck.com/k_study)
+- [twitter](https://twitter.com/ks_study_ml)
 
-# 実行環境
+# この資料は何？
 
-- python3.8.5
+機械学習でよく使用されるアルゴリズムの基本的な仕組みを説明するための資料です。
+ここではテーブルデータ(csv のような表で表現できるデータ)を扱う機械学習モデルを対象に、
+以下の話題について動画とコードを用いて説明しています。
+
+- 教師あり学習（データと正解のペアを与えて、正解を当てるような予測モデルを作成すること）
+  - 線形回帰
+  - 線形分類
+  - 決定木学習
+  - アンサンブル学習
+- 教師なし学習（データから何らかの構造やパターンを見出すこと）
+  - クラスタリング
+  - 次元削減
+- モデル選択
+  - ハイパーパラメタ探索
+  - 前処理選択
+- さいごに
+  - 課題を見つける
+  - 実データでモデルを作成
+  - まとめ
+
+今後、さらに発展的な話題も説明していければと思います。
+質問・要望などございましたら[twitter](https://twitter.com/ks_study_ml)か[質問箱](https://marshmallow-qa.com/ks_study_ml)にいただけると、内容に反映できると思います。
+
+# コードの実行環境
+
+**python3.8.5** にて動作を確認しています。

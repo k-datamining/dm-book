@@ -1,7 +1,9 @@
+@charset "UTF-8";
 body {
   font-family: "M PLUS 1p";
 }
 
+/* navの調整 */
 div.section h1 {
   font-size: 1.5em;
 }
@@ -12,11 +14,16 @@ div.section h4 {
   font-size: 1.3em;
 }
 
-ul.bd-sidenav:nth-child(n + 1) {
+ul.bd-sidenav:nth-child(n + 2) {
   margin-left: 1em;
 }
 
-button#dropdown-buttons-trigger {
+/* binderを非表示にする */
+div.dropdown-buttons-trigger i.fa-rocket {
+  display: none;
+}
+
+div.dropdown-buttons-trigger a.binder-button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */

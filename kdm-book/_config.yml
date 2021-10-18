@@ -1,6 +1,6 @@
 # Book settings
-title: K's data mining
-author: K
+title: 機械学習の基本
+author: KDM(K's Data Mining)
 #logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -10,7 +10,7 @@ execute:
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
-    targetname: book.tex
+    targetname: kdm-book.tex
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
