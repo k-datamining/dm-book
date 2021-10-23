@@ -30,4 +30,8 @@ div.dropdown-buttons-trigger a.binder-button {
 div#site-navigation {
   background: #f4f3ee;
 }
+
+div.social-buttons li {
+  display: inline;
+}
 /*# sourceMappingURL=style.css.map */
