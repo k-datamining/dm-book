@@ -27,6 +27,15 @@ html:
   use_issues_button: true
   use_repository_button: true
   google_analytics_id: G-SV8ZDQK64S
+  extra_navbar: |
+      <div class="extra-nav">
+        <li class="ttl">リンク</li>
+        <li class="itm"><a href="https://www.youtube.com/channel/UCFy3VBvZBeE9bN0F2sxF8rg/">youtube</a></li>
+        <li class="itm"><a href="https://twitter.com/ks_study_ml">twitter</a></li>
+        <li class="itm"><a href="https://k-datamining.github.io/dm-book/intro.html">機械学習の基本</a></li>
+        <li class="itm"><a href="https://k-datamining.github.io/dm-book-metrics/intro.html">各評価指標の見方</a></li>
+        <li class="itm"><a href="https://k-datamining.github.io/dm-book-prep/intro.html">データ前処理の仕方</a></li>
+      </div>
   extra_footer: |
       <div class="social-buttons">
         <li>
@@ -36,3 +45,8 @@ html:
           <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         </li>
       </div>
+
+sphinx:
+  config:
+    html_show_copyright: false
+    language: ja

@@ -34,8 +34,30 @@ div#site-navigation {
     background: #f4f3ee;
 }
 
+footer {
+    div.container p:nth-child(1) {
+        display: none;
+    }
+}
+
 div.social-buttons {
     li {
         display: inline;
+    }
+}
+
+div.extra-nav {
+
+    li {
+        list-style: none;
+        text-align: left;
+    }
+
+    li.ttl {
+        font-weight: bold;
+    }
+
+    li.itm {
+        margin-left: 1em;
     }
 }

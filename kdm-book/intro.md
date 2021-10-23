@@ -31,13 +31,16 @@
 今後、さらに発展的な話題も説明していければと思います。
 質問・要望などございましたら[twitter](https://twitter.com/ks_study_ml)か[質問箱](https://marshmallow-qa.com/ks_study_ml)にいただけると、内容に反映できると思います。
 
+# 他の資料
+
+- [機械学習の基本](https://k-datamining.github.io/dm-book/intro.html)
+- [各評価指標の見方](https://k-datamining.github.io/dm-book-metrics/intro.html)
+- [データの前処理の仕方](https://k-datamining.github.io/dm-book-prep/intro.html)
+- TODO: データの可視化
+- TODO: 異常検知
+- TODO: 推薦システム
+- TODO: 深層学習
+
 # コードの実行環境
 
 **python3.8.5** にて動作を確認しています。
-
-# 他の資料
-
-- [各評価指標の見方](https://k-datamining.github.io/dm-book-metrics/intro.html)
-- TODO: データの前処理の仕方
-- TODO: データの可視化
-- TODO: 異常検知
