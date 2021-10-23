@@ -37,7 +37,7 @@
 
 # 他の資料
 
-- [各評価指標の見方](https://k-datamining.github.io/dm-metrics/intro.html)
+- [各評価指標の見方](https://k-datamining.github.io/dm-book-metrics/intro.html)
 - TODO: データの前処理の仕方
 - TODO: データの可視化
 - TODO: 異常検知

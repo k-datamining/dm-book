@@ -1,7 +1,5 @@
 # OSSLIST.md
 
-インストールされるライブラリのライセンスの一覧
-
 ```
  Name                           Version       License
  Babel                          2.9.1         BSD License
