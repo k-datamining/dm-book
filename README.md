@@ -5,6 +5,7 @@
 ## build
 
 ```
+nbqa black kdm-book
 jupyter-book build kdm-book
 ghp-import -n -p -f kdm-book/_build/html
 ```
