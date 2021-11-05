@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 parts:
+- caption: はじめに
+  chapters:
+  - file: intro/useful_python_materials.md
+  - file: data-analysis/materials/regression/乱数を固定する.ipynb
 - caption: 線形回帰
   chapters:
   - file: data-analysis/materials/regression/線形回帰.ipynb
@@ -25,6 +29,7 @@ parts:
   - file: data-analysis/materials/ensemble/Adaboostの各パラメータの影響度とAdaboost(分類)の重みの可視化例.ipynb
   - file: data-analysis/materials/ensemble/Adaboost(回帰)の重みの可視化例.ipynb
   - file: data-analysis/materials/ensemble/勾配ブースティング.ipynb
+  - file: data-analysis/materials/ensemble/勾配ブースティング2.ipynb
 - caption: クラスタリング
   chapters:
   - file: data-analysis/materials/clustering/k-meansクラスタリング1.ipynb
