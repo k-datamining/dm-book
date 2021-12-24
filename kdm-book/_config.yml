@@ -1,5 +1,5 @@
 # Book settings
-title: 機械学習の基本
+title: K_DM
 author: KDM(K's Data Mining)
 #logo: logo.png
 
@@ -32,7 +32,7 @@ html:
         <li class="ttl">リンク</li>
         <li class="itm"><a href="https://www.youtube.com/channel/UCFy3VBvZBeE9bN0F2sxF8rg/">youtube</a></li>
         <li class="itm"><a href="https://twitter.com/ks_study_ml">twitter</a></li>
-        <li class="itm"><a href="https://k-datamining.github.io/dm-book/intro.html">機械学習の基本</a></li>
+        <li class="itm"><a href="https://k-datamining.github.io/dm-book/intro.html">K_DM</a></li>
         <li class="itm"><a href="https://k-datamining.github.io/dm-book-metrics/intro.html">各評価指標の見方</a></li>
         <li class="itm"><a href="https://k-datamining.github.io/dm-book-prep/intro.html">データ前処理の仕方</a></li>
       </div>
