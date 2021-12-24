@@ -1,6 +1,8 @@
 ﻿# _build
 kdm-book/_build
 .vscode/
+google*.html
+ga/
 
 # log
 note.md

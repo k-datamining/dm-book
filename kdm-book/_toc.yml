@@ -4,10 +4,6 @@
 format: jb-book
 root: intro
 parts:
-- caption: はじめに
-  chapters:
-  - file: intro/useful_python_materials.md
-  - file: data-analysis/materials/regression/乱数を固定する.ipynb
 - caption: 線形回帰
   chapters:
   - file: data-analysis/materials/regression/線形回帰.ipynb
@@ -40,3 +36,8 @@ parts:
   - file: data-analysis/materials/dimensionality_reduction/PCA.ipynb
   - file: data-analysis/materials/dimensionality_reduction/LDA.ipynb
   - file: data-analysis/materials/dimensionality_reduction/Kernel-PCA.ipynb
+- caption: 参考文献・補足資料
+  chapters:
+  - file: references.md
+  - file: intro/useful_python_materials.md
+  - file: data-analysis/materials/regression/乱数を固定する.ipynb

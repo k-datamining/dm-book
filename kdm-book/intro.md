@@ -1,11 +1,3 @@
-# 機械学習の基本
-
-このページは以下の youtube で使用したコードを公開するページです。
-
-- [youtube](https://www.youtube.com/channel/UCFy3VBvZBeE9bN0F2sxF8rg/videos)
-- [speakerdeck](https://speakerdeck.com/k_study)
-- [twitter](https://twitter.com/ks_study_ml)
-
 # この資料は何？
 
 機械学習でよく使用されるアルゴリズムについて基本的な仕組みを勉強した際の Vlog の記録です。
@@ -14,6 +6,7 @@
 ```{note}
 質問・要望などございましたら[twitter](https://twitter.com/ks_study_ml)か[質問箱](https://marshmallow-qa.com/ks_study_ml)にいただけると、内容に反映できると思います。コンテンツに含まれるミスやバグについては[Issue](https://github.com/k-datamining/dm-book/issues)にお願いします。
 ```
+
 
 # 他の資料
 
