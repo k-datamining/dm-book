@@ -34,6 +34,7 @@ parts:
 - caption: 次元削減
   chapters:
   - file: data-analysis/materials/dimensionality_reduction/PCA.ipynb
+  - file: data-analysis/materials/dimensionality_reduction/SVD.ipynb
   - file: data-analysis/materials/dimensionality_reduction/LDA.ipynb
   - file: data-analysis/materials/dimensionality_reduction/Kernel-PCA.ipynb
 - caption: 参考文献・補足資料
