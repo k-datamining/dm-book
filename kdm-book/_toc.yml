@@ -37,6 +37,9 @@ parts:
   - file: data-analysis/materials/dimensionality_reduction/SVD.ipynb
   - file: data-analysis/materials/dimensionality_reduction/LDA.ipynb
   - file: data-analysis/materials/dimensionality_reduction/Kernel-PCA.ipynb
+- caption: 時系列予測
+  chapters:
+  - file: data-analysis/materials/timeseries/prophetを実行する.ipynb
 - caption: 参考文献・補足資料
   chapters:
   - file: references.md
