@@ -31,6 +31,7 @@
 - [The Missing Semester of Your CS Education (日本語版)](https://missing-semester-jp.github.io/)
 - [Afshine Amidi 先生の講義資料 ](https://stanford.edu/~shervine/l/ja/teaching/)
 - [Y-DATA, Yandex School of Data Science](https://ydata.yandex.com/)
+- [機械学習帳](https://chokkan.github.io/mlnote/index.html)
 
 ## 統計
 
