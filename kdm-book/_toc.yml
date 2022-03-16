@@ -18,6 +18,7 @@ parts:
   - file: data-analysis/materials/tree/決定木(分類).ipynb
   - file: data-analysis/materials/tree/決定木(回帰).ipynb
   - file: data-analysis/materials/tree/過学習を防ぐためのパラメータ.ipynb
+  - file: data-analysis/materials/tree/RuleFit.ipynb
 - caption: アンサンブル
   chapters:
   - file: data-analysis/materials/ensemble/RandomForest.ipynb

@@ -1671,6 +1671,19 @@ requests = ">=1.1"
 urllib3 = ">=1.8"
 
 [[package]]
+name = "rulefit"
+version = "0.3.1"
+description = "RuleFit algorithm"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+numpy = ">=1.16.1"
+pandas = ">=0.24.1"
+scikit-learn = ">=0.20.2"
+
+[[package]]
 name = "scikit-learn"
 version = "1.0"
 description = "A set of python modules for machine learning and data mining"
@@ -2370,7 +2383,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "c4f60a86118173bc8836038a864ea26c9a085aa220cce032be3a4b52d5996e9d"
+content-hash = "59e1455417d1299688d69bf669dc7208e2c3c3cd81a08852bb56509ac987e69e"
 
 [metadata.files]
 alabaster = [
@@ -3533,6 +3546,9 @@ requests = [
 requests-unixsocket = [
     {file = "requests-unixsocket-0.2.0.tar.gz", hash = "sha256:9e5c1a20afc3cf786197ae59c79bcdb0e7565f218f27df5f891307ee8817c1ea"},
     {file = "requests_unixsocket-0.2.0-py2.py3-none-any.whl", hash = "sha256:014d07bfb66dc805a011a8b4b306cf4ec96d2eddb589f6b2b5765e626f0dc0cc"},
+]
+rulefit = [
+    {file = "rulefit-0.3.1.tar.gz", hash = "sha256:623ae22758c0dd6f77a50dd2fcbb1977c063df59431220a7d4b0f04582ad3c4f"},
 ]
 scikit-learn = [
     {file = "scikit-learn-1.0.tar.gz", hash = "sha256:776800194e757cd212b47cd05907e0eb67a554ad333fe76776060dbb729e3427"},
