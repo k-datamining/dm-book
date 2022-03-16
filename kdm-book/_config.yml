@@ -19,7 +19,7 @@ bibtex_bibfiles:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/k-datamining/dm-book # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
+  path_to_book: kdm-book/  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
@@ -54,7 +54,19 @@ html:
 
       gtag('config', 'G-SV8ZDQK64S');
     </script>
+    <script>
+      window.onload = function() {
+        var cb = document.getElementsByClassName("colab-button")
+        if ( cb ) {
+          var cb_button = cb[0].querySelectorAll('[data-original-title]')[0];
+          cb_button.setAttribute("data-original-title","Colab上で実行する");
+        }
+      }
+    </script>
 
+launch_buttons:
+  binderhub_url: ""
+  colab_url: "https://colab.research.google.com"
 sphinx:
   config:
     html_show_copyright: false
